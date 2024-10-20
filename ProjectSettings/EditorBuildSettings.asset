@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: f9ac37cd20e1538438905265f088f4f2
+  - enabled: 1
+    path: Assets/Scenes/CodeScene.unity
+    guid: ecb5adf3850570948812bb89134ed5ba
+  - enabled: 1
+    path: Assets/Scenes/BugScene.unity
+    guid: eb0fdea7cfb8d1e4fa2804218c7f4c9b
+  - enabled: 1
+    path: Assets/Scenes/TeamScene.unity
+    guid: 69e0075337cf75e4c8735f69d654586d
+  - enabled: 1
+    path: Assets/Scenes/BrickBreakerScene.unity
+    guid: d0485be3c20c5ad458ec160ec333de05
+  - enabled: 1
+    path: Assets/Scenes/FallingVirusScene.unity
+    guid: f3d89f60aa9e0dc468ebe87343eb28c1
+  - enabled: 1
+    path: Assets/Scenes/EatScene.unity
+    guid: 2b916309f11a9104c9e1dd7ceaca5583
+  - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: 26a38145e5600fc4694afaac6e055f61
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 04ebd835b5acd4a489babd3a9c6c7d92
+  - enabled: 1
+    path: Assets/End Scenes/GameFinish.unity
+    guid: 5d3169be8275c8244ace5517dc25a27d
+  - enabled: 1
+    path: Assets/End Scenes/GameOverEnergy.unity
+    guid: a7b4788be6bea0240a5b4b3290538507
+  - enabled: 1
+    path: Assets/End Scenes/GameOverFatigue.unity
+    guid: 00afeb3ca2cf7424893efbecea49ce87
+  m_configObjects: {}
